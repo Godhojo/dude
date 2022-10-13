@@ -1,0 +1,13 @@
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.csprojAssemblyReference.cache
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.AssemblyInfoInputs.cache
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.AssemblyInfo.cs
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.csproj.CoreCompileInputs.cache
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.exe
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.deps.json
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.runtimeconfig.json
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.runtimeconfig.dev.json
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.dll
+C:\Users\Coeur\Desktop\projects\Dudeproj\bin\Debug\netcoreapp3.1\Dudeproj.pdb
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.dll
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.pdb
+C:\Users\Coeur\Desktop\projects\Dudeproj\obj\Debug\netcoreapp3.1\Dudeproj.genruntimeconfig.cache
